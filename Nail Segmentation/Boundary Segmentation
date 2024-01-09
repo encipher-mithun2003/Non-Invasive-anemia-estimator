@@ -1,5 +1,5 @@
 % Read the image
-img = imread("saroja.jpg");
+img = imread("nail_image.jpg");
 
 % Display the original image
 subplot(1, 2, 1);
