@@ -105,3 +105,4 @@ composite_img = [resized_images{1}, resized_images{2}; resized_images{3}, resize
 % Display the resized grouped images as a single image
 imshow(composite_img);
 title('Resized Grouped Images in a 2x2 Composite Image');
+
